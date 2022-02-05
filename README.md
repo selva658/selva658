@@ -36,8 +36,8 @@ A dedicated and efficient Full-Stack Web Developer skilled in MERN stack and am 
 ## 🤖👾 My Projects...
 
 <p dir="auto">
-<span><a href="https://github.com/selva658/Pantaloons"><img src="https://pantaloons.imgix.net/img/app/brands/pantaloons/v2/PT_D_logo.png" alt="pantaloons" style="width: 18%; height: 60px;"></a>&nbsp;&nbsp;<a href="https://selva658.github.io/Pantaloons/">view Project</a><span><br>
-<a href="https://github.com/selva658/Lybrate_Clone_Project"><img src="https://assets.lybrate.com/q_auto,f_auto//imgs/product/logos/Lybrate-Logo.png" alt="Fabindia" style="width: 17%; height: 60px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://selva658.github.io/Lybrate_Clone_Project/">view Project</a>
+<span><a href="https://github.com/selva658/Pantaloons"><img src="https://pantaloons.imgix.net/img/app/brands/pantaloons/v2/PT_D_logo.png" alt="pantaloons" style="width: 18%; height: 40px;"></a>&nbsp;&nbsp;<a href="https://selva658.github.io/Pantaloons/">view Project</a><span><br>
+<a href="https://github.com/selva658/Lybrate_Clone_Project"><img src="https://assets.lybrate.com/q_auto,f_auto//imgs/product/logos/Lybrate-Logo.png" alt="Fabindia" style="width: 17%; height: 40px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://selva658.github.io/Lybrate_Clone_Project/">view Project</a>
 </p>
 <br/>
 
