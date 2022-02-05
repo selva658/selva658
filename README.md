@@ -36,7 +36,7 @@ A dedicated and efficient Full-Stack Web Developer skilled in MERN stack and am 
 ## 🤖👾 My Projects...
 
 <p dir="auto">
-<a href="https://github.com/selva658/Pantaloons"><img src="https://scontent.fixm4-1.fna.fbcdn.net/v/t39.30808-6/272663573_1155151781688006_3652306198374054445_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=BZlsb6PjNo4AX_gHD3F&tn=QL5AAqKT3A_WAzar&_nc_ht=scontent.fixm4-1.fna&oh=00_AT-RtokZ4kPbjsJpeFeKCae82q2eXLPZ5c8uGfauQoAoNA&oe=61FA0F36" alt="pantaloons" style="width: 18%; height: 60px;"></a>&nbsp;&nbsp;<a href="https://selva658.github.io/Pantaloons/">view Project</a><br>
+<a href="https://github.com/selva658/Pantaloons"><img src="https://pantaloons.imgix.net/img/app/brands/pantaloons/v2/PT_D_logo.png" alt="pantaloons" style="width: 18%; height: 60px;"></a>&nbsp;&nbsp;<a href="https://selva658.github.io/Pantaloons/">view Project</a><br>
 <!-- <a href="https://github.com/mehtab39/projectfashionnova/tree/Bals"><img src="https://i.ibb.co/t3fJfV5/Capture3.png" alt="Fabindia" style="width: 17%; height: 60px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mehtab39.github.io/projectfashionnova/root/index.html">view Project</a> -->
 </p>
 <br/>
