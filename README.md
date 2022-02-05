@@ -5,8 +5,8 @@ A dedicated and efficient Full-Stack Web Developer skilled in MERN stack and am 
 - 👀 Keen to build and develop high-quality user-friendly platforms by using my technical knowledge and skills.
 - 👩‍ Eager to obtain a challenging position at a dynamic company to enhance my learning and contribute to exciting projects.
 - 👨‍💻 All of my projects are available at My <a href="">Portfolio</a>
-- 📫 How to reach me ... via call or whatsup 7010502842... via Mail selvakumarpsk658@gmail.com
-- ⚡ Fun fact: I love to drawing, hearing music and play sudoku in my leisure time.
+- 📫 How to reach me via Mail selvakumarpsk658@gmail.com
+- ⚡ I love anima's and web series
 
 
 <br/>
