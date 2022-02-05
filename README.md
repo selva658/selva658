@@ -6,7 +6,7 @@ A dedicated and efficient Full-Stack Web Developer skilled in MERN stack and am 
 - 👩‍ Eager to obtain a challenging position at a dynamic company to enhance my learning and contribute to exciting projects.
 - 👨‍💻 All of my projects are available at My <a href="">Portfolio</a>
 - 📫 How to reach me via Mail selvakumarpsk658@gmail.com
-- ⚡ I love anima's and web series
+- ⚡ I love anime's and web series
 
 
 <br/>
