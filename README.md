@@ -1,7 +1,7 @@
 # Hi👋, I am Selvakumar,
 A dedicated and efficient Full-Stack Web Developer skilled in MERN stack and am an avid learner. 
 ## 🙋‍♀️👩‍🎓 About me...
-- 🌱 Passionate and dedicated aspiring full-stack web developer with a specialization in MERN stack.
+- 📖 Learning MERN stack .
 - 👀 Keen to build and develop high-quality user-friendly platforms by using my technical knowledge and skills.
 - 👩‍ Eager to obtain a challenging position at a dynamic company to enhance my learning and contribute to exciting projects.
 - 👨‍💻 All of my projects are available at My <a href="">Portfolio</a>
