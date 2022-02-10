@@ -1,5 +1,8 @@
 # Hi, I am Selvakumar,
-A dedicated and efficient Full-Stack Web Developer skilled in MERN stack. 
+Aspiring full-Stack developer skilled in all aspects of front-end and 
+MERN stack technologies. Looking forward to bringing creative and
+strong technical skills to the working environment.
+ 
 
 <img style="width:40%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <hr>
@@ -34,8 +37,11 @@ A dedicated and efficient Full-Stack Web Developer skilled in MERN stack.
 <a target="_blank" rel="noopener noreferrer" href="https://learning.postman.com/docs/getting-started/introduction/"><img src="https://camo.githubusercontent.com/879423585ed087f3c973857c43ba7e7d84f52c993d2c937055726339fbf921d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465" alt="postman" data-canonical-src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=Postman&amp;logoColor=white" style="max-width: 100%;"></a>
    <a target="_blank" rel="noopener noreferrer" href="https://docs.npmjs.com"><img src="https://camo.githubusercontent.com/55037e0ff8e2c9df84ad631c3d0443a7316776ede7459a5872ccb336d7df2781/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d4342333833373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" alt="npm" data-canonical-src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&amp;logo=npm&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
-
+ <a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://themes.getbootstrap.com/wp-content/themes/bootstrap-marketplace/assets/images/elements/bootstrap-stack.png" alt="javascript" data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" style="max-width: 100%;height:35px;margin-top:20px"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://seeklogo.com/images/M/material-design-logo-8BAFEFE50B-seeklogo.com.png" alt="javascript" data-canonical-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" style="max-width: 100%;height:30px;"></a>
 <br/>
+<br/>
+
 
 ## 🤖👾 My Projects...
 
