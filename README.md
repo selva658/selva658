@@ -1,5 +1,5 @@
 # Hi, I am Selvakumar,
-Aspiring full-Stack developer skilled in all aspects of front-end and 
+I am a Full-Stack developer skilled in all aspects of front-end and 
 MERN stack technologies. Looking forward to bringing creative and
 strong technical skills to the working environment.
  
@@ -8,7 +8,7 @@ strong technical skills to the working environment.
 <hr>
 
 ## 🙋‍♀️👩‍🎓 About me...
-- 📖 Learning MERN stack .
+- 📖 MERN stack, vue js, python, sql .
 - 👀 Keen to build and develop high-quality user-friendly platforms by using my technical knowledge and skills.
 - 👩‍ Eager to obtain a challenging position at a dynamic company to enhance my learning and contribute to exciting projects.
 - 👨‍💻 All of my projects are available at My <a href="https://potfolio-selva.netlify.app">Portfolio</a>
