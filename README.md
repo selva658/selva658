@@ -45,10 +45,8 @@ As a Full Stack Developer, I have played a key role in developing and maintainin
  <li>Gmail : selvakumarpsk658@gmail.com</li>
  <li><a href="https://www.linkedin.com/in/selvakumar-p-409b07220/">LinkedIn</a></li>
 </ul>
-<br/>  <br/>
   
- 
-  ## 📉📊 GitHub Stats...
+## 📉📊 GitHub Stats...
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=selva658)](https://github-readme-stats.vercel.app/api?username=selva658)
   <br/>
