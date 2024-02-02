@@ -1,20 +1,27 @@
 # Hi, I am Selvakumar,
-I am a Full-Stack developer skilled in all aspects of front-end and 
-MERN stack technologies. Looking forward to bringing creative and
-strong technical skills to the working environment.
+Passionate and results-driven Full Stack Developer with a solid foundation in web development and a versatile skill set encompassing Vue.js, Python Flask, MySQL, Git, and AWS.
  
 
 <img style="width:40%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <hr>
 
 ## 🙋‍♀️👩‍🎓 About me...
-- 📖 MERN stack, vue js, python, sql .
-- 👀 Keen to build and develop high-quality user-friendly platforms by using my technical knowledge and skills.
-- 👩‍ Eager to obtain a challenging position at a dynamic company to enhance my learning and contribute to exciting projects.
-- 👨‍💻 All of my projects are available at My <a href="https://potfolio-selva.netlify.app">Portfolio</a>
-- 📫 How to reach me via Mail selvakumarpsk658@gmail.com
-- ⚡ I love anime's and web series
+Full-Stack Web Development
+Critical Mention an Onclusive Company      April 2022 - Present                         
 
+As a Full Stack Developer, I have played a key role in developing and maintaining web applications using Vue.js on the Front-end and Python Flask on the Back-end. My responsibilities include:
+
+- Worked on the development of dynamic and responsive user interfaces using Vue.js, ensuring a seamless and engaging user experience.
+- Utilized Vue.js components to modularize the codebase, promoting reusability and maintainability.
+- Implemented robust RESTful APIs using Python Flask, facilitating smooth communication between the frontend and backend systems.
+- Integrated third-party APIs(GIS) to enhance application functionality and provide additional features to users.
+- Implemented and maintained comprehensive unit tests for the codebase.
+- Implemented data migration scripts and optimized database queries for enhanced performance.
+- Played a proactive role in identifying and resolving bugs and issues within both frontend and backend components.
+- Collaborated closely with QA teams to understand reported issues, providing effective solutions and ensuring the delivery of bug-free software.
+- Utilized Git for version control, ensuring a collaborative and organized development process
+- Possess a foundational understanding of AWS Cloud
+- Collaborated closely with a diverse team of developers in the US, fostering effective communication and teamwork.
 
 <br/>
 
