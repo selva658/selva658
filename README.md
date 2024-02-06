@@ -6,7 +6,7 @@ Full Stack Developer with 2years of experience in the IT industry with proficien
 
 ## 🙋‍♀️👩‍🎓 About me...
 Full-Stack Web Development
-Critical Mention an Onclusive Company      April 2022 - Present                         
+Critical Mention an Onclusive Company      April 2022 - Feb 2024                         
 
 As a Full Stack Developer, I have played a key role in developing and maintaining web applications using Vue.js on the Front-end and Python Flask on the Back-end. My responsibilities include:
 
