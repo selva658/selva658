@@ -1,5 +1,5 @@
 # Hi, I am Selvakumar,
-Full Stack Developer with 2yr of experience in the IT industry with proficiency in all facets of front-end and MERN stack technologies. Eager to contribute creative and robust technical skills to the working environment
+Full Stack Developer with 2years of experience in the IT industry with proficiency in all facets of front-end and MERN stack technologies. Eager to contribute creative and robust technical skills to the working environment
 
 <img style="width:40%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <hr>
