@@ -8,7 +8,7 @@ Full Stack Developer with 2 years of experience in the IT industry with proficie
 Full-Stack Web Development
 Critical Mention an Onclusive Company      April 2022 - Feb 2024                         
 
-As a Full Stack Developer, I have played a key role in developing and maintaining web applications using Vue.js on the Front-end and Python Flask on the Back-end. My responsibilities include:
+As a Full Stack Developer, significant contributions have been made to the development and upkeep of web applications employing Vue.js for the Front-end and Python Flask for the back-end. Responsibilities encompass,
 
 - Worked on the development of dynamic and responsive user interfaces using Vue.js, ensuring a seamless and engaging user experience.
 - Utilized Vue.js components to modularize the codebase, promoting reusability and maintainability.
