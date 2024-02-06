@@ -1,5 +1,5 @@
 # Hi, Selvakumar here,
-Full Stack Developer with 2 years of experience in the IT industry with proficiency in all facets of front-end and MERN stack technologies. Eager to contribute creative and robust technical skills to the working environment
+Experienced Full Stack Developer with two years of proven expertise in the IT sector, proficient in various front-end and MERN stack technologies. Aiming to bring forth creative and robust technical abilities to enhance collaborative environments. Demonstrated versatility by working with multiple tech stacks including Vue.js, React.js, and Flask (Python).
 
 <img style="width:40%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <hr>
