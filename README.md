@@ -25,9 +25,7 @@ As a Full Stack Developer, significant contributions have been made to the devel
 <br/>
 
 ## 💻🚀 My Skills...
-  <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="css3" width="40" height="40"/> </a>
-    
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css3" width="40" height="40"/> </a>
+  <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css3" width="40" height="40"/> </a>
   
   </p>
 
