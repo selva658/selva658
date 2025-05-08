@@ -1,5 +1,5 @@
 # Hi, Selvakumar here,
-Experienced Full Stack Developer with two years of proven expertise in the IT sector, proficient in various front-end and MERN stack technologies. Aiming to bring forth creative and robust technical abilities to enhance collaborative environments. Demonstrated versatility by working with multiple tech stacks including Vue.js, React.js, and Flask (Python).
+Full Stack Developer with over 3 years of experience designing, developing, and deploying full-stack applications with JavaScript frameworks. Proven ability to optimize frontend performance, integrate APIs, and lead modular architecture in fast-paced agile environments.
 
 <img style="width:40%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <hr>
@@ -8,7 +8,7 @@ Experienced Full Stack Developer with two years of proven expertise in the IT se
 Full-Stack Web Development
 Critical Mention an Onclusive Company      April 2022 - Feb 2024                         
 
-As a Full Stack Developer, significant contributions have been made to the development and upkeep of web applications employing Vue.js for the Front-end and Python Flask for the back-end. Responsibilities encompass,
+As a Full Stack Developer, I have made significant contributions to the development and upkeep of web applications, employing Vue.js for the front end and Python Flask for the back end. Responsibilities encompass,
 
 - Worked on the development of dynamic and responsive user interfaces using Vue.js, ensuring a seamless and engaging user experience.
 - Utilized Vue.js components to modularize the codebase, promoting reusability and maintainability.
